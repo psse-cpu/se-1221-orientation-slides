@@ -7,16 +7,15 @@ introImage: me.jpg
 
 # Richard Michael Coo
 
-- <twemoji-hourglass-done /> Full-time work:
-  *  Senior Node.js Developer at <fancy-link href="https://devpartners.co/">Dev Partners</fancy-link>
-- <twemoji-eleven-oclock /> Part-time engagements:
-  * Consultant at <fancy-link href="https://stacktrek.com/">Stacktrek</fancy-link> 
-  * Instructor at <fancy-link href="https://cpu.edu.ph/">Central Philippine University</fancy-link> 
-    + _Software Engineering department_
+- <twemoji-graduation-cap /> Graduated BSSE 2007 at <fancy-link href="https://cpu.edu.ph/">CPU</fancy-link>
+- <twemoji-hourglass-done /> <small>Full-time</small> Senior Node.js Developer at <fancy-link href="https://devpartners.co/">Dev Partners</fancy-link>
+- <twemoji-eleven-oclock /> <small>Part-time</small> Instructor at <fancy-link href="https://cpu.edu.ph/">CPU</fancy-link>: SE dept.
 - <twemoji-man-technologist /> Specializes in:
   * <logos-express /> Express.js
   * <logos-nestjs /> Nest.js
   * <logos-typescript-icon /> Typescript
+* <twemoji-thinking-face /> Interested in:
+  * <logos-scala /> Scala
 
 <style>
   .fancy-link {

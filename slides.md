@@ -19,87 +19,56 @@ drawings:
 # use UnoCSS
 css: unocss
 layout: intro
-introImage: https://cdn.solace.com/wp-content/uploads/2020/05/microservices-300x300.png
+introImage: /se-cover.png
 ---
 
-# Microservices
+# Orientation
 
-## Experience the Basics in 30 minutes
+## SE-1221
 
-### CPU * UNMER
+### Introduction to Engineering Design **(for SE)**
 
-##### Batch 3: Session 5
+###### Richard Michael Coo
 
-<div id="logos">
-  <img alt="cpu" src="/cpu.png" /> <img alt="unmer" src="/unmer.png" />
-</div>
+<logos-github-octocat /> [Repo][repo] <span class="ml-4">Slides: </span>
+<twemoji-link /> [Online][online] <mdi-file-pdf class="text-red-500" /> [PDF][pdf]
+
+[repo]: https://github.com/psse-cpu/se-1221-orientation-slides
+[online]: https://myknbani.github.io/se-1221-orientation-slides
+[pdf]: https://myknbani.github.io/se-1221-orientation-slides/slides-export.pdf
 
 <style>
-  #logos {
-    display: inline;
-  }
+h1 {
+  padding-bottom: 16px;
+  border-bottom: 2px solid lightgrey;
+}
 
-  #logos img {
-    display: inline;
-    margin-top: 32px;
-    width: 96px !important;
-    height: 96px !important;
-  }
+h6 {
+  margin-bottom: 32px;
+}
 
-  h3 {
-    margin-top: 16px;
-  }
+h3 {
+  margin-bottom: 40px;
+}
+
+#logos img {
+  display: inline;
+  margin-top: 32px;
+  width: 96px !important;
+  height: 96px !important;
+}
+
+h3 {
+  margin-top: 16px;
+}
 </style>
 
 ---
 src: ./preface/intro.md
 ---
 ---
-src: ./preface/expect.md
+src: ./preface/what-is-it.md
 ---
 ---
 src: ./preface/agenda.md
----
----
-src: ./preface/monolithic.md
----
----
-src: ./preface/microservice.md
----
----
-src: ./preface/what.md
----
----
-src: ./preface/triangle.md
----
----
-src: ./preface/adoption.md
----
----
-src: ./preface/undergrads.md
----
-
----
-src: ./patterns/new-section.md
----
----
-src: ./patterns/decompose.md
----
----
-src: ./patterns/db-per-service.md
----
----
-src: ./patterns/shared-db.md
----
----
-src: ./patterns/api-composition.md
----
----
-src: ./patterns/workshop.md
----
----
-src: ./patterns/antipattern.md
----
----
-src: ./patterns/outro.md
 ---
