@@ -34,8 +34,8 @@ introImage: /se-cover.png
 <twemoji-link /> [Online][online] <mdi-file-pdf class="text-red-500" /> [PDF][pdf]
 
 [repo]: https://github.com/psse-cpu/se-1221-orientation-slides
-[online]: https://myknbani.github.io/se-1221-orientation-slides
-[pdf]: https://myknbani.github.io/se-1221-orientation-slides/slides-export.pdf
+[online]: https://psse-cpu.github.io/se-1221-orientation-slides
+[pdf]: https://psse-cpu.github.io/se-1221-orientation-slides/slides-export.pdf
 
 <style>
 h1 {
