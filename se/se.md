@@ -26,6 +26,8 @@ p:last-child {
 </style>
 
 ---
+layout: two-cols
+---
 
 # Software Engineering
 
@@ -36,10 +38,20 @@ p:last-child {
   * of appropriate software development practices
   * the integration of engineering rigor with 
   * the ability to apply advanced algorithms and data structures developed in computer science. 
-- The strong focus of software engineering is on the design of software systems that are:
+- strongly focused on designing software systems that are:
   * reliable
   * trustworthy
   * secure
   * usable
+
+::right::
+
+![computing](/computing.png)
+
+<style>
+img {
+  height: 500px;
+}
+</style>
 
 [1]: https://www.computer.org/education/bodies-of-knowledge/software-engineering
