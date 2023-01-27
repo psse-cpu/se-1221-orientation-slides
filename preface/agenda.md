@@ -5,13 +5,14 @@ gradientColors: ['#8EC5FC', '#E0C3FC']
 
 # Agenda
 
+- Course Details
+  + Schedule
+  + Pre-reqsuite(s)
+  + Mode of Delivery
 - Expectations
-- Prerequisite
-- Schedule
-  + Face-to-face Meetings
-  + Online Meetings
 - Meet and Greet
 - Confusing Terminologies
+  + Nature of SE _(or why not Engg 1011?)_
   + Software Engineering
   + Engineering Design
   + Design

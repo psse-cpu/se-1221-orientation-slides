@@ -2,7 +2,7 @@
 layout: quote
 ---
 
-# What is it?
+# What is SE-1221?
 
 > ## Your first taste of the college motto:
 

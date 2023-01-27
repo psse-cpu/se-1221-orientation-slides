@@ -17,7 +17,7 @@ info: |
 drawings:
   persist: false
 # use UnoCSS
-css: unocss
+css: windicss
 layout: intro
 introImage: /se-cover.png
 ---
@@ -40,7 +40,7 @@ introImage: /se-cover.png
 <style>
 h1 {
   padding-bottom: 16px;
-  border-bottom: 2px solid lightgrey;
+  @apply border-b-2 border-gray-300;
 }
 
 h6 {
@@ -71,4 +71,23 @@ src: ./preface/what-is-it.md
 ---
 ---
 src: ./preface/agenda.md
+---
+---
+src: ./preface/last-ied.md
+---
+---
+src: ./preface/legal.md
+---
+---
+src: ./preface/expectations.md
+---
+---
+src: ./preface/meet-and-greet.md
+---
+
+---
+src: ./se/nature-of-se.md
+---
+---
+src: ./se/se.md
 ---
