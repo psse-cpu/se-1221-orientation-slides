@@ -6,7 +6,7 @@
   * than those who have graduated from BSSE programs. 
 - More confusion: software engineering is a course/subject in BSCS and sometimes, BSIT or BSCpE programs
 
-<cite class="text-green-500 text-right">See [ACM CC2020][1] page 29</cite>
+<cite class="text-green-500 text-right">See [ACM CC2020][1] page 28</cite>
 
 As much as I want to promote the department that molded me, but [1 Peter 3:10][2] teaches us to speak honestly:
 > ### <twemoji-person-gesturing-no /> You DON'T need to be a BSSE graduate to become a _"software engineer"_!
