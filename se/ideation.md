@@ -49,7 +49,7 @@ h3 img {
 
 ::right::
 
-- these products are usually innovative and **disruptive**
+- these products are usually innovative and [**disruptive**](https://en.wikipedia.org/wiki/Disruptive_innovation)
 - If launched successfully, the one you hated will now hate you
 
 <twemoji-pouting-face /> I hate banks
