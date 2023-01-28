@@ -82,6 +82,9 @@ src: ./preface/legal.md
 src: ./preface/expectations.md
 ---
 ---
+src: ./preface/house-rules.md
+---
+---
 src: ./preface/meet-and-greet.md
 ---
 
@@ -90,4 +93,10 @@ src: ./se/nature-of-se.md
 ---
 ---
 src: ./se/se.md
+---
+---
+src: ./se/engg-design.md
+---
+---
+src: ./se/ideation.md
 ---

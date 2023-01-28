@@ -13,7 +13,7 @@ As much as I want to promote the department that molded me, but [1 Peter 3:10][2
 
 > #### <twemoji-warning /> You may not end up with a job title of _"software engineer"_ (or equivalent) even with a BSSE degree, esp. in less _"technical"_ roles
 
-- but maybe: _business analyst, "QA Engineer" <small>(inaccurate)</small>, Test Engineer, ScrumMaster_, etc.
+- but maybe: _business analyst, "QA Engineer" <small>(popular but inaccurate)</small>, Test Engineer, ScrumMaster_, etc.
 
 [1]: https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf
 [2]: https://www.biblegateway.com/passage/?search=1%20Peter%203%3A10&version=NLT
@@ -38,9 +38,9 @@ cite {
 layout: two-cols
 ---
 
-# Software Engineering
+# Software engineering
 
-- would also refer to the discipline
+- would usually refer to the discipline
   * body of knowledge ([SWEBOK][1]): 15 knowledge areas
   * SE focuses on creating software-based solutions, but it is **much more than programming.** 
 - SE emphasizes the use:
@@ -48,9 +48,9 @@ layout: two-cols
   * the integration of engineering rigor, along with 
   * the ability to apply advanced algorithms and data structures developed in computer science. 
 - strongly focused on designing software systems that are:
-  * reliable
-  * secure
-  * usable
+  * high-quality
+  * meets or exceeds customer expectations
+  * manages complexity and change
 
 <cite class="text-green-500 text-right">See [ACM CC2020][2] page 29</cite>
 
