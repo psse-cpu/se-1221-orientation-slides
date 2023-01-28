@@ -101,8 +101,6 @@ src: ./se/engg-design.md
 src: ./se/ideation.md
 ---
 ---
-layout: center
----
 
 # Credits
 
