@@ -1,6 +1,6 @@
 ---
 layout: image-left
-image: https://www.publicdomainpictures.net/pictures/470000/velka/cute-puppy-dog-cartoon.jpg
+image: /cute-puppy-dog-cartoon.jpg
 ---
 
 # Meet and Greet
