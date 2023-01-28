@@ -100,3 +100,13 @@ src: ./se/engg-design.md
 ---
 src: ./se/ideation.md
 ---
+---
+layout: center
+---
+
+# Credits
+
+- [Berkeley Method of Entrepreneurship: Opportunity Identification _(Ikhlaq Sidhu)_][1]
+- others: TODO
+
+[1]: https://www.slideshare.net/ikhlaqsidhu/bmoe1-berkeley-method-opportunity-recognition

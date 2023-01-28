@@ -93,9 +93,3 @@ img {
   height: 400px;
 }
 </style>
-
----
-layout: center
----
-
-# Credits: TODO
